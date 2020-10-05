@@ -1,1 +1,2 @@
-# 99002449_SimpleProgram
+# Hands-on & Discussion
+* Meaning of special variables $@, $^, $<
